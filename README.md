@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/alfdmsr/leetcode-solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/alfdmsr/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/alfdmsr/leetcode-solved/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/alfdmsr/leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/alfdmsr/leetcode-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/alfdmsr/leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0228-summary-ranges](https://github.com/alfdmsr/leetcode-solved/tree/master/0228-summary-ranges) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/alfdmsr/leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/alfdmsr/leetcode-solved/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/alfdmsr/leetcode-solved/tree/master/1894-merge-strings-alternately) |
 ## String
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/alfdmsr/leetcode-solved/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/alfdmsr/leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/alfdmsr/leetcode-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/alfdmsr/leetcode-solved/tree/master/0242-valid-anagram) |
 ## Matrix
