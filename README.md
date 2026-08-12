@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/alfdmsr/leetcode-solved/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/alfdmsr/leetcode-solved/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/alfdmsr/leetcode-solved/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/alfdmsr/leetcode-solved/tree/master/0056-merge-intervals) |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/alfdmsr/leetcode-solved/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/alfdmsr/leetcode-solved/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/alfdmsr/leetcode-solved/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/alfdmsr/leetcode-solved/tree/master/1894-merge-strings-alternately) |
